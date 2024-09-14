@@ -3,7 +3,7 @@ import java.util.Scanner;
 /* Задание: Реализовать в коде алгоритм, на основе задания-алгоритма.
   "Программа, которая подсказывает, что нужно одеть в соответствии с прогнозом погоды"
    temperature<=2:надеть тёплую куртку и тёплые штаны
-   2>temperature<=16:надеть куртку и штаны, temperature>16:надеть футболку и шорты,.
+   2>temperature<=16:надеть куртку и штаны, temperature>16: надеть футболку и шорты,.
        */
 public class HomeWorkLesson9_10 {
     public static void main(String[] args) {
